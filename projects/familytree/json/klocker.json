@@ -1,24 +1,30 @@
 {
   "name": "Michael Klocker",
-  "bio": "Born: Tirol Austria c. 1767; Employed in Mischaue, Tirol; Married:  Marie Maidler [n. Tirol c. 1768].",
+  "bio": "Born: Tirol Austria c. 1767; Employed in Mischaue, Tirol; Married:  Marie Maidler [Tirol, Austria 1786-1849 ].",
+  "image": "images/klocker/Austria.png",
   "children": [{
     "name": "Bartholomäus Kocker Maidler",
-    "bio": "Born: Zillerthal, Tirol, 11 Aug 1786, + Ruhr, Silesia, 1849; Owner of house N°37 Schättel Bachtal en Mittel-Zillerthal, Silesia, c. 1849; arrived with 5 sons Silesia, Prusia, from Zillerthal en 1837; In 1867 immigrated with sons Jakob and Veit to Chile; Married:  Marie Schönherr [n. Tirol c. 1790, + Silesia 1870].",
+    "bio": "Born: 11. August 1786 - Brandberg,Tirol, Austria, Died in 1849 - Germany, Age: 63 years old; Owner of house N°37 Schättel Bachtal en Mittel-Zillerthal; Married in 1810 with Marie Schoenherr , born on 7 May 1782 - Mayrhofen, Tyrol, Austria, died in 1870 - Schmiedeberg, Silesia Age 88 years old  ",
+    "image": "images/klocker/Austria.png",
     "children": [{
       "name": "Jakob (Jacob) Klocker Schönherr ",
-      "bio": "Born: Zillerthal, Tirol, 01 Apr 1810, Frutillar 29 Dec 1879, Buried:  N°58 Los Bajos; Owner of house N°7 n Hohen-Zillerthal; Arrived with wife in Puerto Montt on 01 Nov 1860 by boat names hamburgués Iserbrook; Received ranch N°37b in Frutillar which was originally owned by Sangmeister; Married:  Therese Hechenleitner Hausser (var. Hanser) [n. Zillerthal 18 Apr 1818, Punta de Los Bajos 26 Sept 1896, Buried:  N°58 Los Bajos; h. Johannes Hechenleitner Wechselberger y Eva Hausser (var. Hanser)]."
+      "bio": "Born: Born on April 1, 1810 - Brandenberg, Tyrol; Died 29 December 1879 - Frutillar, Llanquihue, Chile, Age: 69 years old;  N°58 Los Bajos; Owner of house N°7 n Hohen-Zillerthal; Arrived with wife in Puerto Montt on 01 Nov 1860 by boat (hamburgués Iserbrook); R N°37b in Frutillar which was originally owned by Sangmeister; Married in 1845 to Therese Hechenleitner , Hanser , born on April 18, 1818   N°58 Los Bajos",
+      "image": "images/klocker/Austria.png"
     }, {
       "name": "Simon Klocker Schönherr ",
-      "bio": "Born: Tirol 15 Oct 1815; Member of representatives of the church; Owner of house N° 78 'Schöttel Simei' Nieder - Zillerthal, Silesia; c .1849 c.Christiane Kriegel[n.Buchwald, distrito de Hirschberg; 1831]"
+      "bio": "Born: Tirol 15 Oct 1815; Member of representatives of the church; Owner of house N° 78 'Schöttel Simei' Nieder - Zillerthal, Silesia; c .1849 c.Christiane Kriegel[n.Buchwald, distrito de Hirschberg; 1831]",
+      "image": "images/klocker/Austria.png"
     }, {
       "name": "Veit Klocker Schönherr",
       "bio": "Born: Zillerthal, Tirol, + Los Bajos 17 July 1886, Buried:  N°58 Los Bajos; vecino de la casa Schöttl Veitl , Silesia; soldado en los cazadores de Görlitzer; agricultor; llegó con su esposa y 4 hijos a Puerto Montt el 01 Nov 1860 en el barco hamburgués Iserbrook; recibió la chacra N°62 en Los Bajos que perteneció a Ernesto Niepel; Married:  Susanne Hechenleitner Wechselberger [n. Zillerthal 30 ó 31 Mar 1822, + 25 June 1893, Buried:  N°58 Los Bajos; h. Joseph 1° Hechenleitner Pfister y Marie Wechselberger]. ",
+      "image": "images/klocker/Austria.png",
       "children": [{
         "name": "Ana Therese Klocker Hechenleitner ",
         "bio": "Born: Mittel - Zillerthal, Silesia, 18 July 1844, en parto de su tercer hijo varón, Frutillar, 05 Aug 1865, Buried:  N° 40 Frutillar;c.Puerto Montt 17 Aug 1861 c.Friedrich Hermann Winkler Gerhardt[n.Kleinpörthen, Sajonia, 11 Apr 1838, Frutillar 17 Aug 1921, Buried:  N° 40 Frutillar; c.II° Puerto Montt 17 July 1871 c.Bertha Klocker Hechenleitner; h.Johann Christian Winkler Müller y Johanna Christiane Gerhard(t) Hübschmann].Descendencia está registrada en Friedrich Hermann Winkler Gerhardt "
       }, {
         "name": "Josef Klocker Hechenleitner",
-        "bio": "Born: Schmiedeberg, Silesia, 07 Oct 1849, + Los Bajos 23 Aug 1929, Buried:  N°58 Los Bajos; agricultor en las chacras N°62 y N°64 en Punta de Los Bajos 1891/1892; c. Los Bajos 15 Jan 1879 c. Pauline Ernestine Niepel George [n. Scheibe, Silesia, 27 Mar 1853, + Punta de Los Bajos 05 July 1906, Buried:  N°58 Los Bajos; c. I° Puerto Montt 16 Sept 1872 c. Friedrich (Fritz) Gottlob (Teófilo) Aichele Manz; h. Christian Gottlob Niepel Exner y Wilhelmine Ernestine George Livoenschuck]. ",
+        "bio": "Born:  07 Oct 1849, Prusia,  + Los Bajos 23 Aug 1929, Buried:  N°58 Los Bajos; agricultor en las chacras N°62 y N°64 en Punta de Los Bajos 1891/1892; c. Los Bajos 15 Jan 1879 c. Pauline Ernestine Niepel George [n. Scheibe, Silesia, 27 Mar 1853, + Punta de Los Bajos 05 July 1906, Buried:  N°58 Los Bajos; c. I° Puerto Montt 16 Sept 1872 c. Friedrich (Fritz) Gottlob (Teófilo) Aichele Manz; h. Christian Gottlob Niepel Exner y Wilhelmine Ernestine George Livoenschuck]. ",
+        "image": "images/klocker/Prusia.png",
         "children": [{
           "name": "Ferdinand Albert Klocker Niepel ",
           "bio": "Born: Punta de Los Bajos 27 Oct 1879, Los Bajos 25 July 1947, Buried:  N° 58 Los Bajos;agricultor en la chacra N° 62 en Los Bajos;c.Puerto Varas 31 Jan 1932 c.Clara Carolina Raddatz Saldivia[n.Punta de Los Bajos 09 July 1904, Puerto Montt 05 Sept 1982, Buried:  N° 58 Los Bajos; h.Ernesto Raddatz Wetzel y Carolina Saldivia Scheel].",
@@ -75,15 +81,15 @@
               "bio": "Born: 04 Mar 1960; Married:  Teresa Stella Brignardello Pacheco. 3 hijos.",
               "image": "images/klocker/EduardoKlocker.png",
               "children": [{
-                "name": "Alberto Andres Klocker Brignardello",
+                "name": "Alberto Klocker Brignardello",
                 "bio": "Born: 2 Nov 1984, Santiago, Chile; Married:  Melissa Wright [n. 28 Octubre 1984]",
                 "image": "images/klocker/AlbertoKlocker.png"
               }, {
-                "name": "Marcela Naomi Klocker Brignardello",
+                "name": "Marcela Klocker Brignardello",
                 "bio": "Born: 1 Agosto 1994, Melbourne, Australia",
                 "image": "images/klocker/MarcelaKlocker.png"
               }, {
-                "name": "Claudia Verena Klocker Brignardello",
+                "name": "Claudia Klocker Brignardello",
                 "bio": "Born: 8 Enero 1996, Melbourne, Australia",
                 "image": "images/klocker/ClaudiaKlocker.png"
               }]
